@@ -5,13 +5,13 @@
 
 **Version:** *v.0.1.0*
 -- Added Basic Features such as:
-                                t~help - Shows a list of commands and some basic help
+                                ```t~help - Shows a list of commands and some basic help
                                 t~ping - Get's bot's ping
-                                t~invite - Sends invite to support server
+                                t~invite - Sends invite to support server```
                                 
 -- Added a few trolling commands: 
-                                pls rob - Sends fake rob
-                                pls heist - Sends fake heist
+                                ```pls rob - Sends fake rob
+                                pls heist - Sends fake heist```
                                 
 **Version:** *v.0.1.2*
 Major bug fixes
