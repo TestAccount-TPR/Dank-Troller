@@ -27,6 +27,10 @@ Major bug fixes
 **Version:** *v.0.2.0*                 
 **-- Bot wiped and commansd reset to fix bot only reacting with :bank: in server: The Planning Room**
 
+**-- Removed command: tinvite**
+
+**-- Prefix changed to: `+`**
+
 
 **Version:** *v.0.2.1*
 **-- Update underway.**
